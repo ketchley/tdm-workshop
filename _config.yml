@@ -6,7 +6,6 @@ remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github
 github_repo_url: "https://ketchley.github.io/tdm-workshop/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
 
 color_scheme: dash
-# logo: "https://github.com/scds/intro-voyant/blob/main/assets/img/dmds-tableau.png?raw=true"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
