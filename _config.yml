@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: <Fundamentals of Text Mining: Curating, Preparing, Analyzing, and Visualizing Textual Data> # EDIT: Fill this in
+title: <Fundamentals of Text Mining. Curating, Preparing, Analyzing, and Visualizing Textual Data> # EDIT: Fill this in
 description: <This workshop is an introductory session covering the basics of text mining. No previous background knowledge is required.> # EDIT: Fill this in
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
