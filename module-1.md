@@ -1,5 +1,5 @@
 ---
-title: <Module One>
+title: Module One
 layout: default
 nav_order: 3
 ---
