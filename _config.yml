@@ -2,8 +2,9 @@ theme: jekyll-theme-minimal
 title: <Fundamentals of Text Mining. Curating, Preparing, Analyzing, and Visualizing Textual Data> # EDIT: Fill this in
 description: <This workshop is an introductory session covering the basics of text mining. No previous background knowledge is required.> # EDIT: Fill this in
 
-remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
+remote_theme: ketchley/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
 github_repo_url: "https://ketchley.github.io/tdm-workshop/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
+color_scheme: minx
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
