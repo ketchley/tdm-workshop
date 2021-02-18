@@ -3,75 +3,68 @@ title: Module 3
 layout: default
 nav_order: 5
 ---
-Text cleaning with Lexos - Maggie
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 # Module 3: Text Cleaning with Lexos
-In this first lesson, you'll get some introductory experience creating a GitHub repository and populating it with files from the web interface. 
+
+## Summary 
+In this activity we will explore the impact of text cleaning on our data sets using the Lexos tool. 
 
 ## Lesson objectives 
-- Create a GitHub repository.
-- Create folders and files.
-- Create and edit a markdown file.
+- Experiment with text cleaning configuration options to generate OCR text with fewer error.
+- Apply a stopword list.
+- Create a visualization from your cleaned data. 
 
 ## Lesson video
 The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="Insert URL"></iframe>
 
-## 1. Create a new GitHub repository
-A repository is a container for related materials (i.e. folders and files), that allows for them to be managed (stored, version-tracked) and shared together. Usually, you create a separate repository for each project that you are working on. [Here are the New York Times' GitHub repositories](https://github.com/nytimes), for example.
-- Ensure you have [created a GitHub account](preparation#2-create-a-github-account) and are logged in.
-- From your GitHub main page, click on the green **New Repository** button. This is the repository (storage location) where the content of your website will be hosted. 
-  - Provide a name for your repository. The name you enter will determine the URL of your repository.
-    - The repository URL will take the form: ```https://github.com/<your-github-username>/<your-repo-name>```
-	- e.g. ```https://github.com/jasonbrodeur/test-pages```
-- Check the box to **Initialize this repository with a README**
-	- **NOTE**: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.). The ```.md``` extension indicates to GitHub that this is a Markdown file (more on that later). One of the nice features of markdown files is that they are readable by almost any applications (and humans), since they are mostly just plain text files.
-- Click the **Create repository** button
-- Your browser will now open to the top-level page of the repository. Your repository will contain one file: **README.md**. 
+From the Wheaton College Lexomics Department Website: 
 
-## 2. Add files and folders
-In this step, you'll create a file and folder in your repository and upload a file from your computer to your new folder. You will eventually use all of these items to create your first webpage with GitHub Pages 
- 
-### Create a file 
-- In the top-level repository page (which you can navigate to by clicking the ```<> Code``` tab), click ```Add file > Create new file```
-- When prompted to name your file, title it ```index.md```. This creates an empty text file that GitHub will assume contains Markdown code.
-- Scroll down to the **Commit new file** section. Add a short description (or use the suggested one) and click ```Commit change```.
-  - **NOTE**: Unlike programs such as Google Docs, GitHub does not save your changes automatically. Rather, you have to instruct it to **Commit** the changes, which takes a snapshot of the file and saves it as the newest version. 
-  - **NOTE**: There are two comment boxes that can be filled in when committing changes. The short description **is required**--ideally, it comtains a brief message about the changes you made to the file. An optional larger description box can be filled out, as well. 
-  
-### Edit your text file
-- Click on your ```index.html``` file to view it, and then click the edit button (pencil icon) to switch to editing mode
-- Add a bit of text to this file (anything is fine for now). 
-- When finished editing, modify the commit message and add a longer description (if desired) and **commit your changes**. 
+“Lexos is a web-based tool to help you explore your favorite corpus of digitized texts. Our primary motivation is to help you find the explorer spirit as you apply computational and statistical probes to your favorite collection of texts. Lexos provides a workflow of effective practices so you are mindful of the many decisions made in your experimental methods.” 
 
-### View your changes and change history
-- While viewing your ```index.md``` file, explore the ```Blame``` and ```History``` buttons to better understand how GitHub keeps track of and visualizes file changes. 
+Instructions: 
 
-### Create a folder 
-- In the top-level repository page, click ```Add file > Create new file```
-- When prompted to name your file, enter ```images/temp.txt```. **Commit your changes**. This will create a folder called ```images``` and an empty file inside of it called ```temp.txt``` (which can be deleted later, once you've moved more files into the images folder).
+1. Download and unzip the folder with your chosen data set, from a selection in the Preparation page. 
 
-### Upload a file 
-- Make sure you are located within the ```images``` folder (you should see your ```temp.txt``` file). 
-- Click ```Add file > Upload files```. 
-- Select an image from your computer to upload. If you want to download something from the web, try to use something that is not copyrighted or is royalty free ([e.g.](https://www.pexels.com/royalty-free-images/))
-- **Commit your changes**
-<br>
-<br>
-**Finished?** Navigate to [Lesson 2](lesson2), to learn how to use Markdown to format your text for the web. 
+2. Review the documents and consider any issues with the text. Consider how you would address those issues to get the best result. 
+
+3. Open up the Lexos tool using [this link](http://lexos.wheatoncollege.edu/upload) 
+
+4. Upload your data set by clicking the “Browse” button and selecting the files in your folder. You can also drag and drop the individual files into the “Drag files here” container. Successful uploads will appear in the “Upload List.”  
+
+5. Once your files have been uploaded, click the “Prepare” link in the upper right hand corner and click the “Scrub” option in the drop down list. 
+
+6. Take a moment to experiment with the options on the page. 
+
+7. Use the Previews section and click the “Preview” button to review your changes and see the impact on the text. 
+
+Here are steps you can follow to use the **Stop/Keep Words** option 
+
+Download the English_StopWord_List.txt.file from the Preparation page. 
+
+1. Paste the words in the English_StopWord_List.txt file in the text box 
+
+2. Click the “Stop” option 
+
+3. Navigate to the “Previews” section on the page and click “Preview” button to see the changes to your text files. 
+
+Tweak the English_Stop_Words.txt file and repeat the steps above until you’re happy with your results.  
+
+4. Once you feel the text is in a good state, click the “Apply” button. 
+
+Now navigate to **“Visualize”** and select the Word Cloud option 
+
+Examine the terms in the word cloud 
+
+Navigate to the Scrub page again and download your cleaned data set by clicking the “Download” button in the upper right hand corner of the “Preview” section 
+
+
+**Finished?** Navigate to [Module 4](module-4.md), to learn how to use Voyant to visualize your data set. 
 
 
 <!--
-
-
-## Workshop recording
-
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
-
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
-
 
 ## Workshop slides
 
