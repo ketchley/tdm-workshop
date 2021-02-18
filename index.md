@@ -8,15 +8,15 @@ nav_order: 1
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 -->
 
-<img src="assets/img/DASH-advert.png" alt="Workshop Title Slide" width="720">
+<img src="data/pexels-element-digital-1370295.jpg" alt="Pexels Element Digital" width="720">
 <br>
-# Getting started with GitHub and GitHub Pages. 
-Maybe you've heard of GitHub and would like to learn more about how it works. Maybe you've heard how it's possible to make easy and simple webpages using GitHub and GitHub Pages and want to try. Or maybe, you knew none of this but are intrigued nonetheless. In any of those cases, this tutorial is for you.  
+# Fundamentals of Text Mining. 
+Maybe you've heard of text mining and would like to learn more about how it works. Maybe you've heard how it's possible to make easy and simple webpages using GitHub and GitHub Pages and want to try. Or maybe, you knew none of this but are intrigued nonetheless. In any of those cases, this tutorial is for you.  
 
 In this tutorial, you will learn how to use a suite of related tools ([GitHub](https://github.com/), [GitHub Pages](https://pages.github.com/), [Markdown](https://www.markdownguide.org/getting-started/), and [GitHub Desktop](https://desktop.github.com/)) to create and manage repositories of files, and build simple websites with ease! 
 
 ## Learning Objectives
-By the end of this tutorial, you will be able to: 
+By the end of this workshop, you will be able to: 
 - Create a [GitHub](https://github.com/) repository (from scratch and by cloning/forking an existing one)
 - Create, edit, and manage versions of files in a GitHub repository
 - Describe the basics of versioning and versioning software; communicate their value
