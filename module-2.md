@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 Digital Literacies and Critical Thinking Skills-Lindsey
-Ideating, Developing, and Interpreting Research Questions-Lindsey
+Ideating, Developing, and Interpreting Research Questions-Lindsey Gervais
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 # Module 2: Digital Literacies and Critical Thinking Skills

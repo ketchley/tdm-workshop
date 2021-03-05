@@ -8,10 +8,10 @@ Introduction to Text Mining (Sarah) and your datasets (Maggie)
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 # Lesson 1: Introduction to Text Mining
-In this first lesson, you'll get some introductory experience creating a GitHub repository and populating it with files from the web interface. 
+What is text mining?  
 
 ## Lesson objectives 
-- Create a GitHub repository.
+- Learn about the text mining in the humanities.
 - Create folders and files.
 - Create and edit a markdown file.
 

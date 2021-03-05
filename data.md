@@ -3,7 +3,7 @@ title: Datasets
 layout: default
 nav_order: 2
 ---
-This page will contain the datasets for the text and data mining workshop.
+This page contains the datasets for the text and data mining workshop.
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 
