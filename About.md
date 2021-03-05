@@ -3,7 +3,7 @@ title: About
 layout: default
 nav_order: 7
 ---
-
+## About this Workshop
 As academic libraries continually shift to keep up with changing research and pedagogical needs, many are looking at the digital humanities as an opportunity for closer collaboration with faculty and other campus stakeholders. Text mining fosters a natural partnership between library staff, faculty and students by facilitating a research workflow that promotes close and distant reading, project management skills, and critical thinking.
 
 The purpose of this workshop is to familiarize attendees with the basic workflow, terms and output a student or new researcher would encounter when trying to accomplish a text mining project. We will give an introduction to text mining, including: what it is, what’s possible, and how it is being used for research and instruction. In addition to a discussion on the theories and methodologies in the field, participants will get hands-on practice with the major components of a text mining project.
@@ -28,5 +28,5 @@ This workshop is an introductory session covering the basics of text mining wher
 <br>
 [**Lindsey Gervais**](https://www.linkedin.com/in/lindseykle/) is a Digital Learning Manager at Gale where she assists in the learning design and development of Gale’s Digital Scholarship Program. With a doctorate background and research recognition in the field of Cognition, Instruction, and Learning Technology, Lindsey is helping to elevate the instructional framework of Gale’s Digital Scholar Lab. She is a graduate of UCONN and taught Educational Psychology and Research Practicum for undergraduate and graduate students for 9 years. [@Elle_Gervais](https://twitter.com/Elle_Gervais)
 <br>
-[**Margaret Waligora**](https://www.linkedin.com/in/margaret-waligora-80b4a7bb/)is the product owner for the Gale Digital Scholar Lab. She holds a Masters in Library Information Science with a concentration in digital curation and preservation from Wayne State University. When she’s not in the office leading a project, she can be found taking long walks with her partner Lee and their two dogs (Walter and Charlie), volunteering for causes she is passionate about, listening to audiobooks in the comfort of her home, or catching up with friends. [@mwaligo1](https://twitter.com/mwaligo1)
+[**Margaret Waligora**](https://www.linkedin.com/in/margaret-waligora-80b4a7bb/) is the product owner for the Gale Digital Scholar Lab. She holds a Masters in Library Information Science with a concentration in digital curation and preservation from Wayne State University. When she’s not in the office leading a project, she can be found taking long walks with her partner Lee and their two dogs (Walter and Charlie), volunteering for causes she is passionate about, listening to audiobooks in the comfort of her home, or catching up with friends. [@mwaligo1](https://twitter.com/mwaligo1)
 

@@ -30,7 +30,7 @@ Before analyzing textual data, it is important to ensure the text is of sufficie
 
 Finding text suitable for computational analysis is challenging, especially with issues of copyright and licensing restrictions, format limitations, and hard-to-navigate systems.
 
-Three commonly used sources to find textual data are vendor databases, digital collections, and social media. Each source has its own strengths and challenges when it comes to downloading text. For this class you will be using open data, and one dataset from Gale Primary Sources.
+Three commonly used sources to find textual data are vendor databases, digital collections, and social media. Each source has its own strengths and challenges when it comes to downloading text. For this class you will be have the choice of several open datasets, and one additional dataset from Gale Primary Sources.
 
 ### Factors that affect choice of textual data 
 
@@ -40,7 +40,7 @@ Three commonly used sources to find textual data are vendor databases, digital c
 
 ## Module Objectives 
 - Learn about the nature of text mining in the humanities and the types of research being carried out.
-- Learn about the datasets you will be using
+- Learn about the datasets you will be using, and make a choice as to which you will work with in class.
 
 ## Module Video
 The following video demonstrates each of the steps outlined below in text:
