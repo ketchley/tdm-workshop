@@ -67,7 +67,7 @@ Examine the terms in the word cloud
 
 Navigate to the Scrub page again and download your cleaned data set by clicking the “Download” button in the upper right hand corner of the “Preview” section.
 
-## Module Milesone
+## Module Milestone
 
 <br>
 <br>

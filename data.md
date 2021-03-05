@@ -15,7 +15,7 @@ This page contains the datasets for the text and data mining workshop.
 ## Choose a dataset to work with
 We have six datasets to choose from:
 
-1. Adult British Fiction - insert details 
+1. Adult British Fiction - Fiction from the 1880s (sample corpora assembled from Project Gutenberg by students in Alan Liu's English 197 course, Fall 2014 at UC Santa Barbara) (zip files here: http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets) 
 2. Watergate Scandal
 3. Inaugural Presidential Speeches
 4. Feeding America
