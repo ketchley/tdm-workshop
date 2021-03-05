@@ -12,6 +12,13 @@ Participants will build mini-projects in order to familiarize themselves with th
 
 To accomplish these tasks, we will provide a sample dataset, but will also include a list of primary sources (found on the Web and in the library) where they could procure their own datasets. Using one of the most popular text mining and visualization tools used by digital humanists today (Voyant), attendees will work independently to generate visualizations from the texts in their datasets, and answer questions based on their results.
 
-Course history: This workshop was first offered at the DLF conference in 2019, and has been adapted for a fully online/asynchronous format. We’d like to acknowledge the work of Dr. Wendy Perla Kurtz in developing the content, which also draws on a text-mining workshop offered by the University of Nevada Las Vegas.
+##Course history
+This workshop was first offered at the DLF conference in 2019, and has been adapted for a fully online/asynchronous format. We’d like to acknowledge the work of Dr. Wendy Perla Kurtz in developing the content, which also draws on a text-mining workshop offered by the University of Nevada Las Vegas.
 
 This workshop is an introductory session covering the basics of text mining where no previous background is required. 
+
+##About your instructors
+
+Sarah Ketchley
+Lindsey Gervais
+Margaret Waligora

@@ -4,27 +4,35 @@ layout: default
 nav_order: 5
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "" at the start and end -->
 
 # Module 3: Text Cleaning with Lexos
 
 ## Summary 
 In this activity we will explore the impact of text cleaning on our data sets using the Lexos tool. 
 
-## Lesson objectives 
+## Module Objectives 
 - Experiment with text cleaning configuration options to generate OCR text with fewer error.
 - Apply a stopword list.
 - Create a visualization from your cleaned data. 
 
-## Lesson video
+## Module Video
 The following video demonstrates each of the steps outlined below in text:
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="Insert URL"></iframe>
+
+## Module Slides
+[Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
+
+<!-- div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div> -->
+
 
 From the Wheaton College Lexomics Department Website: 
 
 “Lexos is a web-based tool to help you explore your favorite corpus of digitized texts. Our primary motivation is to help you find the explorer spirit as you apply computational and statistical probes to your favorite collection of texts. Lexos provides a workflow of effective practices so you are mindful of the many decisions made in your experimental methods.” 
 
-Instructions: 
+**Instructions:** 
 
 1. Download and unzip the folder with your chosen data set, from a selection in the Preparation page. 
 
@@ -58,23 +66,14 @@ Now navigate to **“Visualize”** and select the Word Cloud option
 
 Examine the terms in the word cloud 
 
-Navigate to the Scrub page again and download your cleaned data set by clicking the “Download” button in the upper right hand corner of the “Preview” section 
+Navigate to the Scrub page again and download your cleaned data set by clicking the “Download” button in the upper right hand corner of the “Preview” section.
 
+## Module Milesone
+
+<br>
+<br>
 
 **Finished?** Navigate to [Module 4](module-4.md), to learn how to use Voyant to visualize your data set. 
 
-
-<!--
-
-## Workshop slides
-
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
-[Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
-<br>
-
-## Worksheets
-**Coming soon!**
 
 -->

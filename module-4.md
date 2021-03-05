@@ -9,12 +9,12 @@ Text analysis with Voyant - Sarah
 # Module 4 : Text Analysis with Voyant
 In this first lesson, you'll get some introductory experience creating a GitHub repository and populating it with files from the web interface. 
 
-## Lesson objectives 
+## Module Objectives 
 - Create a GitHub repository.
 - Create folders and files.
 - Create and edit a markdown file.
 
-## Lesson video
+## Module Video
 The following video demonstrates each of the steps outlined below in text:
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe>
 
