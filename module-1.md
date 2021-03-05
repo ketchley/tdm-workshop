@@ -10,7 +10,7 @@ Introduction to Text Mining (Sarah) and your datasets (Maggie)
 # Module 1: Introduction to Text Mining and Datasets
 
 ## Summary
-###What is text mining? 
+### What is text mining? 
 
 To begin with, here are some general definitions and important points related to text analysis to help you navigate the next three modules.
 
@@ -23,26 +23,24 @@ Dataset: In the context of this class, a dataset is a collection of content crea
 Volume: Generally, a digitized book, periodical, or government document.
 Optical character recognition (OCR): Mechanical or electronic conversion of images of typed, handwritten or printed text into machine-encoded text. The quality of the results of OCR can vary greatly, and raw, uncorrected OCR is often described as “dirty”, while corrected OCR is referred to as “clean”. 
 
-###Finding and gathering text
+### Finding and gathering text
 
 Text can be approached as data and analyzed by corpus/corpora.
 Before analyzing textual data, it is important to ensure the text is of sufficient quality (e.g., OCR-ed data is cleaned up) and fully prepared (certain unnecessary elements are discarded).
 
-Methods for accessing and downloading textual data
-
 Finding text suitable for computational analysis is challenging, especially with issues of copyright and licensing restrictions, format limitations, and hard-to-navigate systems.
-Three commonly used sources to find textual data are vendor databases, digital collections, and social media. Each source has its own strengths and challenges when it comes to downloading text. For this class you will be using material from the first resource, i.e. Gale Primary Sources along with any open source material you supplement your narrative with.
-Factors that affect choice of textual data 
 
-How much flexibility is needed for working with the data?
-What is the the technical skillset of the researcher?
+Three commonly used sources to find textual data are vendor databases, digital collections, and social media. Each source has its own strengths and challenges when it comes to downloading text. For this class you will be using open data, and one dataset from Gale Primary Sources.
 
-Are there  funding limitations?
+### Factors that affect choice of textual data 
+
+- How much flexibility is needed for working with the data?
+- What is the the technical skillset of the researcher?
+- Are there  funding limitations?
 
 ## Module Objectives 
-- Learn about the text mining in the humanities.
-- Create folders and files.
-- Create and edit a markdown file.
+- Learn about the nature of text mining in the humanities and the types of research being carried out.
+- Learn about the datasets you will be using
 
 ## Module Video
 The following video demonstrates each of the steps outlined below in text:
