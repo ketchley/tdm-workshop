@@ -8,9 +8,11 @@ nav_order: 1
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end 
 -->
 
-<img src="data/pexels-element-digital-1370295.jpg" alt="Pexels Element Digital" width="720">
+<img src="data/eugenio-mazzone-6ywyo2qtaZ8-unsplash (1).jpg" alt="Text-Mining" width="720">
 <br>
-# Fundamentals of Text Mining. 
+[Photo by Eugenio Mazzone](https://unsplash.com/collections/1016057/text-mining?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText")
+
+# Fundamentals of Text Mining 
 The term data mining refers to any process of analysis performed on a dataset to extract information from it. That definition is so general that it could mean something as simple as doing a string search (typing into a search box) in a library catalogue or in Google. Mining quantitative data or statistical information is standard practice in the social sciences where software packages for doing this work have a long history and vary in sophistication and complexity. 
 
 But data mining in the digital humanities usually involves performing some kind of extraction of information from a body of texts and/or their metadata in order to ask research questions that may or may not be quantitative. Supposing you want to compare the frequency of the word “she” and “he” in newspaper accounts of political speeches in the early 20th century before and after the 19th Amendment guaranteed women the right to vote in August 1920. Suppose you wanted to collocate these words with the phrases in which they were written and sort the results based on various factors—frequency, affective value, attribution and so on. This kind of text analysis is a subset of data mining. Quite a few tools have been developed to do analyses of unstructured texts, that is, texts in conventional formats. Text analysis programs use word counts, keyword density, frequency, and other methods to extract meaningful information. The question of what constitutes meaningful information is always up for discussion, and completely silly or meaningless results can be generated as readily from text analysis tools as they can from any other.

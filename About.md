@@ -1,3 +1,9 @@
+---
+title: About
+layout: default
+nav_order: 7
+---
+
 As academic libraries continually shift to keep up with changing research and pedagogical needs, many are looking at the digital humanities as an opportunity for closer collaboration with faculty and other campus stakeholders. Text mining fosters a natural partnership between library staff, faculty and students by facilitating a research workflow that promotes close and distant reading, project management skills, and critical thinking.
 
 The purpose of this workshop is to familiarize attendees with the basic workflow, terms and output a student or new researcher would encounter when trying to accomplish a text mining project. We will give an introduction to text mining, including: what it is, what’s possible, and how it is being used for research and instruction. In addition to a discussion on the theories and methodologies in the field, participants will get hands-on practice with the major components of a text mining project.
