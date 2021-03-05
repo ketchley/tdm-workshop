@@ -9,12 +9,11 @@ nav_order: 5
 # Module 3: Text Cleaning with Lexos
 
 ## Summary 
-In this activity we will explore the impact of text cleaning on our data sets using the Lexos tool. 
+In Module 3, we will discuss common issues associated with digitizing and OCR-ing historical texts and how to remedy them. We will review sample use cases and potential solutions to these common issues. The session will conclude with application of one of these solutions using an open-source application named Lexos.
 
 ## Module Objectives 
-- Experiment with text cleaning configuration options to generate OCR text with fewer error.
-- Apply a stopword list.
-- Create a visualization from your cleaned data. 
+- Identify common issues with OCR'd historical text
+- Diagnose and remedy issues with OCR text
 
 ## Module Video
 The following video demonstrates each of the steps outlined below in text:
