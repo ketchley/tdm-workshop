@@ -32,7 +32,7 @@ By the end of this workshop, you will be able to:
 Note the following opportunities to attend live office hours to meet us and ask questions: 
 - Monday 15th March 1.30pm EST
 - Thursday 18th March 1.30pm EST
-- Thursday 25th March 1.30pm EST
+- Thursday 25th March 1.30pm EST<br>
 See Workshop details from ER&L for information on how to join these meetings.
 
 ## Milestones
