@@ -27,12 +27,17 @@ By the end of this workshop, you will be able to:
 - Use Lexos for text cleaning
 - Use Voyant to analyze your dataset, and to begin to develop answers to research questions.
 
+## Office Hours
+
 Note the following opportunities to attend live office hours to meet us and ask questions: 
 - Monday 15th March 1.30pm EST
 - Thursday 18th March 1.30pm EST
 - Thursday 25th March 1.30pm EST
+See Workshop details from ER&L for information on how to join these meetings.
 
-You'll see that there are milestones to reach at the end of each module. Completing each activity to reach the milestone will ensure that the material you're taking forward to analysis will give you the best results. 
+## Milestones
+
+You'll see that there are milestones to reach at the end of each module. Complete the activities in each Module, and make sure you've completed the milestone. You'll then be prepared to move on to the next module's work. 
 
 
 Proceed to the [Data](data) page to get started.

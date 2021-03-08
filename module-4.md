@@ -31,7 +31,14 @@ Key features include:
 
 - A mechanism for bookmarking and sharing instances of Voyant Tools (specific texts and tools) through persistent URLs 
 
- 
+## Module Slides
+[Download as a PDF]()
+
+<!-- div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div> -->
+
+<br> 
 
 ## Explore your Dataset using Voyant 
 
@@ -85,6 +92,11 @@ Mandala
 Contexts 
 
 - Choose your own tool 
+
+## Module Milesone
+- Complete a variety of text analyses to become familiar with the Voyant platform
+- Generate your visualization output and decide if you were able to answer your research question using the methodologies you chose
+- What additional research questions do you have now that you've completed your initial analysis?
 
 
 
