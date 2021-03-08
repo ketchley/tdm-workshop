@@ -14,9 +14,8 @@ In this module, you work with a popular text mining tool called [Voyant](https:/
 
 ## Module Video
 The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe>
+<!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe> -->
 
- 
 The tools in the Voyant platform are open source, and are widely used by digital humanists for text analysis and visualization. It is an ideal suite of tools to experiment with in order to familiarize yourself with the process of importing textual data, analyzing it, then creating and interpreting the results as visualizations. One drawback of the platform is that it is hosted on the McGill University servers, and so its ability to process very large datasets is limited. It is possible, however, to install it on a home or local server. 
 
 Key features include: 
@@ -33,10 +32,6 @@ Key features include:
 
 ## Module Slides
 [Download as a PDF]()
-
-<!-- div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div> -->
 
 <br> 
 
@@ -97,6 +92,8 @@ Contexts
 - Complete a variety of text analyses to become familiar with the Voyant platform
 - Generate your visualization output and decide if you were able to answer your research question using the methodologies you chose
 - What additional research questions do you have now that you've completed your initial analysis?
+
+Share the results of your work with us via email or shared Google doc! Our contact details are on the [about](About.md) page. 
 
 
 

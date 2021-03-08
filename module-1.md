@@ -41,16 +41,16 @@ Three commonly used sources to find textual data are vendor databases, digital c
 
 ## Module Video
 The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe>
+<!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe> -->
 
 ## Module Slides
 [Download as a PDF]()
 
 
 ## Module Milesone
-- Choose a dataset from the list we have provided on the[Data](data)page to get started.
+- Choose a dataset from the list we have provided on the [Data](data) page to get started.
 
 
 <br>
 <br>
-**Finished?** Navigate to [Module 2](module-2), to learn how . 
+**Finished?** Navigate to [Module 2](module-2), to learn about digital literacies and critical thinking skills. 
