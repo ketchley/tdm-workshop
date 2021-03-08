@@ -15,7 +15,7 @@ In Module 3, we will discuss common issues associated with digitizing and OCR-in
 
 ## Module Video
 ![Text Cleaning with Lexos](data/text-cleaning-img.png)
-[View video](https://youtu.be/CMvh8QQndns)
+[View video](https://youtu.be/ungH1ryAiwk)
 
 ## Module Slides
 [Download as a PDF](data/2021_ER&Lworkshop_Module3.pdf)
