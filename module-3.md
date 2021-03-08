@@ -18,7 +18,7 @@ The following video demonstrates each of the steps outlined below in text:
 <!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="Insert URL"></iframe> -->
 
 ## Module Slides
-[Download as a PDF]()
+[Download as a PDF](data/2021_ER&Lworkshop_Module3.pdf)
 
 From the Wheaton College Lexomics Department Website: 
 

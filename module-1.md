@@ -44,7 +44,7 @@ The following video demonstrates each of the steps outlined below in text:
 <!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe> -->
 
 ## Module Slides
-[Download as a PDF]()
+[Download as a PDF](data/2021_ER&Lworkshop_Module1.pdf)
 
 
 ## Module Milesone
