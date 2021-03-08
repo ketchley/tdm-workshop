@@ -23,6 +23,14 @@ This workshop was first offered at the DLF conference in 2019, and has been adap
 
 This workshop is an introductory session covering the basics of text mining where no previous background is required. 
 
+## Sources and Inspiration
+- DHSI 2019 Introduction to Computation for Literary Criticism (Randa El Khatib and David Joseph Wrisley)
+- DHSI 2019 Making Choices About Your Data (Paige Morgan and Yvonne Lam)
+- Introduction to Text Analysis: Using Voyant to encounter new questions (UNLV workshop by Priscilla Finley & Chelsea Heinbach)
+- Kleinman, S., LeBlanc, M.D., Drout, M., and Zhang, C. (2019). Lexos v3.2.0. [https://github.com/WheatonCS/Lexos/](https://github.com/WheatonCS/Lexos/).
+- Ryan Cordell and David Smith, Viral Texts: Mapping Networks of Reprinting in 19th-Century Newspapers and Magazines (2017), [http://viraltexts.org](http://viraltexts.org).
+- Sinclair, Stéfan and Geoffrey Rockwell, 2016. Voyant Tools. Web. [http://voyant-tools.org/](http://voyant-tools.org/).
+
 ## About your instructors
 [**Sarah Ketchley**](https//www.sarahketchley.com) is an Egyptologist and art history scholar in the Department of Near Eastern Languages & Civilization at the University of Washington. She teaches introductory and graduate-level classes in digital humanities through NELC and Informatics, and directs a student DH internship program working to create digital editions of primary source material related to Nile travel in the 19th century.  Sarah is also a Digital Humanities Specialist at Gale. [@SarahKetchley](https://twitter.com/SarahKetchley)
 <br>

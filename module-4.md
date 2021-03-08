@@ -86,11 +86,12 @@ Voyant provides a range of tools and options for text analysis. What information
 
 - Choose your own tool 
 
-## Module Milestone
+## Module Milestones
 - Complete a variety of text analyses to become familiar with the Voyant platform
 - Generate your visualization output and decide if you were able to answer your research question using the methodologies you chose
 - What additional research questions do you have now that you've completed your initial analysis?
 
+<br>
 Share the results of your work with us via email or shared Google doc! Our contact details are on the [about](About.md) page. 
 
 

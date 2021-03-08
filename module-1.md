@@ -50,5 +50,4 @@ Three commonly used sources to find textual data are vendor databases, digital c
 - Choose a dataset from the list we have provided on the [Data](data) page to get started.
 
 <br>
-<br>
 **Finished?** Navigate to [Module 2](module-2), to learn about digital literacies and critical thinking skills. 

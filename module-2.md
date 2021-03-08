@@ -27,5 +27,4 @@ In Module 2, we will discuss the role of digital literacy, critical thinking, an
  - Evaluate your research question and write down what you anticipate will be needed for cleaning, tools, and close reading to plan and scope your project effectively. 
 
 <br>
-<br>
 **Finished?** Navigate to [Module 3](module-3), to learn how to clean your OCR text with Lexos. 

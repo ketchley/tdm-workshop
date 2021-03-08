@@ -65,5 +65,4 @@ Navigate to the Scrub page again and download your cleaned data set by clicking 
 - Complete the text cleaning activities until you are happy with the OCR text, and feel that it is ready to take forward to analysis.
 
 <br>
-<br>
 **Finished?** Navigate to [Module 4](module-4.md), to learn how to use Voyant to visualize your data set. 
