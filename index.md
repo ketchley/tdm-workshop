@@ -16,9 +16,9 @@ nav_order: 1
 
 Johanna Drucker, [Intro to Digital Humanities](http://dh101.humanities.ucla.edu/), 2013
 
-Welcome to the 'Fundamentals of Text Mining' workshop! We're glad you have joined us to explore the field of text mining humanities data. You'll have the opportunity to choose from a range of six datasets to prepare for analysis, then explore using a suite of text mining tools.  Here is an overview of how to navigate this class:
+Welcome to the 'Fundamentals of Text Mining' workshop! We're glad you have joined us to explore the field of text mining humanities data. You'll have the opportunity to choose from a range of six datasets to prepare for analysis, then explore using a suite of text mining tools.  
 
-insert video
+[Here is an overview of how to navigate this class](https://youtu.be/cy8bH7jjP8M)
 
 ## Learning Objectives
 By the end of this workshop, you will be able to: 
