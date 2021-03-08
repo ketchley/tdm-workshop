@@ -29,7 +29,7 @@ The following video demonstrates each of the steps outlined below in text:
 
 From the Wheaton College Lexomics Department Website: 
 
-“Lexos is a web-based tool to help you explore your favorite corpus of digitized texts. Our primary motivation is to help you find the explorer spirit as you apply computational and statistical probes to your favorite collection of texts. Lexos provides a workflow of effective practices so you are mindful of the many decisions made in your experimental methods.” 
+>Lexos is a web-based tool to help you explore your favorite corpus of digitized texts. Our primary motivation is to help you find the explorer spirit as you apply computational and statistical probes to your favorite collection of texts. Lexos provides a workflow of effective practices so you are mindful of the many decisions made in your experimental methods.
 
 **Instructions:** 
 
@@ -49,7 +49,7 @@ From the Wheaton College Lexomics Department Website:
 
 Here are steps you can follow to use the **Stop/Keep Words** option 
 
-Download the English_StopWord_List.txt.file from the Preparation page. 
+Download the English_StopWord_List.txt.file from the [Data](data.md) page. 
 
 1. Paste the words in the English_StopWord_List.txt file in the text box 
 
