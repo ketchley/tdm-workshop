@@ -14,8 +14,10 @@ In Module 3, we will discuss common issues associated with digitizing and OCR-in
 - Diagnose and remedy issues with OCR text
 
 ## Module Video
-The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://vimeo.com/user46363379/review/520982474/a73927d48b"></iframe>
+![Text Cleaning with Lexos](data/text-cleaning-img.png)
+[View video](https://youtu.be/CMvh8QQndns)
+
+<!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://vimeo.com/user46363379/review/520982474/a73927d48b"></iframe> -->
 
 ## Module Slides
 [Download as a PDF](data/2021_ER&Lworkshop_Module3.pdf)
