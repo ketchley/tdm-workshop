@@ -20,7 +20,7 @@ In Module 2, we will discuss the role of digital literacy, critical thinking, an
 ## Module Slides
 [Download as a PDF](data/2021_ER&Lworkshop_Module2.pdf)
 
-## Module Milesones
+## Module Milestones
  - Create a concept map for your topic. Be sure to branch out at least three layers. 
  - Select a concept on your outer most layer and perform some preliminary research to determine if the level of specificity of this area is actionable for research.   
  - Then, do the 'Who, Why, How, When' activity to develop your research question using that preliminary research and reflection. 
