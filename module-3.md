@@ -18,12 +18,7 @@ The following video demonstrates each of the steps outlined below in text:
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="Insert URL"></iframe>
 
 ## Module Slides
-[Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
-
-<!-- div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div> -->
-
+[Download as a PDF]()
 
 From the Wheaton College Lexomics Department Website: 
 
@@ -65,7 +60,9 @@ Examine the terms in the word cloud
 
 Navigate to the Scrub page again and download your cleaned data set by clicking the “Download” button in the upper right hand corner of the “Preview” section.
 
-## Module Milestone
+## Module Milestones
+
+- Complete the text cleaning activities until you are happy with the OCR text, and feel that it is ready to take forward to analysis.
 
 <br>
 <br>

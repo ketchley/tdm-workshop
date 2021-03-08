@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-nav_order: 7
+nav_order: 2
 ---
 ## About this Workshop
 As academic libraries continually shift to keep up with changing research and pedagogical needs, many are looking at the digital humanities as an opportunity for closer collaboration with faculty and other campus stakeholders. Text mining fosters a natural partnership between library staff, faculty and students by facilitating a research workflow that promotes close and distant reading, project management skills, and critical thinking.
