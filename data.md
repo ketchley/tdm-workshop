@@ -42,6 +42,6 @@ You should also download this
 
 to your local machine. 
 
-When you've chosen your dataset, downloaded it to your local machine along with the stopword list, you're ready to begin exploring the background to the field of text and data mining. [Module 1](module-1.md) to learn the basics of text mining.
+When you've chosen your dataset, downloaded it to your local machine along with the stopword list, you're ready to begin exploring the background to the field of text and data mining. Go to [Module 1](module-1.md) to learn the basics of text mining.
 
 

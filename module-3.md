@@ -15,7 +15,7 @@ In Module 3, we will discuss common issues associated with digitizing and OCR-in
 
 ## Module Video
 The following video demonstrates each of the steps outlined below in text:
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="Insert URL"></iframe>
+<!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="Insert URL"></iframe> -->
 
 ## Module Slides
 [Download as a PDF]()
@@ -66,8 +66,4 @@ Navigate to the Scrub page again and download your cleaned data set by clicking 
 
 <br>
 <br>
-
 **Finished?** Navigate to [Module 4](module-4.md), to learn how to use Voyant to visualize your data set. 
-
-
--->
