@@ -76,17 +76,17 @@ How would you add a tool to the dashboard that is not included in this default d
 
 Voyant provides a range of tools and options for text analysis. What information can you learn from the following tools and visualizations? [hint: Voyant help documentation is useful]. 
 
-Cirrus 
+- Cirrus 
 
-Document Terms 
+- Document Terms 
 
-Mandala 
+- Mandala 
 
-Contexts 
+- Contexts 
 
 - Choose your own tool 
 
-## Module Milesone
+## Module Milestone
 - Complete a variety of text analyses to become familiar with the Voyant platform
 - Generate your visualization output and decide if you were able to answer your research question using the methodologies you chose
 - What additional research questions do you have now that you've completed your initial analysis?
