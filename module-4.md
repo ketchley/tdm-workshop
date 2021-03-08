@@ -13,8 +13,8 @@ In this module, you work with a popular text mining tool called [Voyant](https:/
 - Visualized and interpret the analysis results.
 
 ## Module Video
-![Text Analysis with Voyant](data/text-cleaning-img.png)
-[View video](data/voyant-img.png)
+![Text Analysis with Voyant](data/voyant-img.png)
+[View video]()
 
 The tools in the Voyant platform are open source, and are widely used by digital humanists for text analysis and visualization. It is an ideal suite of tools to experiment with in order to familiarize yourself with the process of importing textual data, analyzing it, then creating and interpreting the results as visualizations. One drawback of the platform is that it is hosted on the McGill University servers, and so its ability to process very large datasets is limited. It is possible, however, to install it on a home or local server. 
 
