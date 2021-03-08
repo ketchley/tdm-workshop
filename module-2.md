@@ -15,7 +15,7 @@ In Module 2, we will discuss the role of digital literacy, critical thinking, an
 
 ## Module Video
 ![Digital Literacies and Critical Thinking Skills](data/digital-literacy-img.png)
-[View video]()
+[View video](https://youtu.be/adbEuA9TLWI)
 
 ## Module Slides
 [Download as a PDF](data/2021_ER&Lworkshop_Module2.pdf)
