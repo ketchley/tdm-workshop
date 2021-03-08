@@ -14,8 +14,8 @@ In Module 2, we will discuss the role of digital literacy, critical thinking, an
 - Apply critical thinking strategies to think about ideation and interpretation of research questions and workflow output.
 
 ## Module Video
-The following video demonstrates each of the steps outlined below in text:
-<!-- <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/db64dd93-a736-4936-9517-8d0a18c16a3e/public?autoplay=false&automute=false"></iframe> -->
+![Digital Literacies and Critical Thinking Skills](data/digital-literacy-img.png)
+[View video]()
 
 ## Module Slides
 [Download as a PDF](data/2021_ER&Lworkshop_Module2.pdf)
