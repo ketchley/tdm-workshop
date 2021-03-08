@@ -24,7 +24,7 @@ From the Wheaton College Lexomics Department Website:
 
 >Lexos is a web-based tool to help you explore your favorite corpus of digitized texts. Our primary motivation is to help you find the explorer spirit as you apply computational and statistical probes to your favorite collection of texts. Lexos provides a workflow of effective practices so you are mindful of the many decisions made in your experimental methods.
 
-**Instructions:** 
+**Stretch Goal Instructions** 
 
 1. Download and unzip the folder with your chosen data set, from a selection in the Preparation page. 
 
