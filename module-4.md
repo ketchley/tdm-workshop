@@ -33,8 +33,6 @@ Key features include:
 ## Module Slides
 [Download as a PDF]()
 
-<br> 
-
 ## Explore your Dataset using Voyant 
 
 An opportunity to explore your datasets using the tools embedded in Voyant. The goal is for you to experiment with your data, to customize tool options and to create a visualization or two. 
@@ -94,7 +92,5 @@ Contexts
 - What additional research questions do you have now that you've completed your initial analysis?
 
 Share the results of your work with us via email or shared Google doc! Our contact details are on the [about](About.md) page. 
-
-
 
 
