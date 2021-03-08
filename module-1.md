@@ -4,9 +4,6 @@ layout: default
 nav_order: 3
 ---
 
-Introduction to Text Mining (Sarah) and your datasets (Maggie)
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "" at the start and end -->
-
 # Module 1: Introduction to Text Mining and Datasets
 
 ## Summary

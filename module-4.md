@@ -3,8 +3,6 @@ title: Module 4
 layout: default
 nav_order: 6
 ---
-Text analysis with Voyant
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "" at the start and end -->
 
 # Module 4 : Text Analysis with Voyant
 In this module, you work with a popular text mining tool called [Voyant](https://voyant-tools.org), which is a web-based reading and analysis environment for digital texts. You will explore different ways to examine and visualize your datasets using the platform.
@@ -31,9 +29,24 @@ Key features include:
 
 - Interaction between the tools that facilitates navigation and exploration at different scales (from "close reading" to "distant reading") 
 
-- A mechanism for bookmarking and sharing instances of Voyant Tools (specific texts and tools) through persistent URLs  
+- A mechanism for bookmarking and sharing instances of Voyant Tools (specific texts and tools) through persistent URLs 
 
-## Instructions:  
+ 
+
+## Explore your Dataset using Voyant 
+
+An opportunity to explore your datasets using the tools embedded in Voyant. The goal is for you to experiment with your data, to customize tool options and to create a visualization or two. 
+
+Here are some suggested activities for each dataset. Clicking on the link will allow you to download a PDF to your machine, which you can refer to as you work with Voyant. 
+
+1. [Adult British Fiction](data/Literature Analysis Activity.pdf)
+2. [Watergate Scandal](data/Watergate Analysis Activity.pdf)
+3. [Inaugural Presidential Speeches](data/Inaugural Speeches Analysis Activity.pdf)
+4. [Feeding America](data/Feeding American Activity.pdf)
+5. [Billboard Hits](data/#1 Billboard Hits Analysis Activity_.pdf)
+6. [19th Century Sunday School Texts](data/19th C. Sunday School Text Analysis Activity.pdf)
+
+## General Instructions:  
 
 ### Upload to Voyant  
 
@@ -73,17 +86,6 @@ Contexts
 
 - Choose your own tool 
 
-## Explore your Dataset using Voyant 
 
-An opportunity to explore your datasets using the tools embedded in Voyant. The goal is for you to experiment with your data, to customize tool options and to create a visualization or two. 
-
-Here are some suggested activities for each dataset. Clicking on the link will allow you to download a PDF to your machine, which you can refer to as you work with Voyant. 
-
-1. [Adult British Fiction](data/Literature Analysis Activity.pdf)
-2. [Watergate Scandal](data/Watergate Analysis Activity.pdf)
-3. [Inaugural Presidential Speeches](data/Inaugural Speeches Analysis Activity.pdf)
-4. [Feeding America](data/Feeding American Activity.pdf)
-5. [Billboard Hits](data/#1 Billboard Hits Analysis Activity_.pdf)
-6. [19th Century Sunday School Texts](data/19th C. Sunday School Text Analysis Activity.pdf)
 
 

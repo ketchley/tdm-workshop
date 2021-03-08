@@ -5,9 +5,6 @@ layout: default
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters 
--->
-
 <img src="data/eugenio-mazzone-6ywyo2qtaZ8-unsplash (1).jpg" alt="Text-Mining" width="720">
 <br>
 [Photo by Eugenio Mazzone on Unsplash](https://unsplash.com/collections/1016057/text-mining?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText")
@@ -31,9 +28,9 @@ By the end of this workshop, you will be able to:
 - Use Voyant to analyze your dataset, and to begin to develop answers to research questions.
 
 Note the following opportunities to attend live office hours to meet us and ask questions: 
-Monday 15th March 1.30pm EST
-Thursday 18th March 1.30pm EST
-Thursday 25th March 1.30pm EST
+- Monday 15th March 1.30pm EST
+- Thursday 18th March 1.30pm EST
+- Thursday 25th March 1.30pm EST
 
 You'll see that there are milestones to reach at the end of each module. Completing each activity to reach the milestone will ensure that the material you're taking forward to analysis will give you the best results. 
 

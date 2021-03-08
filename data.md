@@ -7,10 +7,8 @@ nav_order: 2
 # Workshop Preparation 
 This page contains the datasets for the text and data mining workshop. There is contextual information about each collection of documents, including links to the original location they were derived from. Choose one dataset to work with in class. 
 
-
 ## Choose a dataset to work with
-We have six datasets to choose from:
-
+ 
 1. [Adult British Fiction](https://www.dropbox.com/sh/sbagk6ozlpyj3cs/AAA5rpSANh0mfEUMBMdoQwBZa?dl=0) 
 <br>
 Fiction from the 1880s. Sample corpora assembled from Project Gutenberg by students in [Alan Liu's English 197 course](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244469/Data%20Collections%20and%20Datasets), Fall 2014 at UC Santa Barbara.
