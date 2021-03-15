@@ -20,6 +20,9 @@ Dataset: In the context of this class, a dataset is a collection of content crea
 Volume: Generally, a digitized book, periodical, or government document.
 Optical character recognition (OCR): Mechanical or electronic conversion of images of typed, handwritten or printed text into machine-encoded text. The quality of the results of OCR can vary greatly, and raw, uncorrected OCR is often described as “dirty”, while corrected OCR is referred to as “clean”. 
 
+Find more Digital Humanities terms and their definitions [here](https://folgerpedia.folger.edu/Glossary_of_digital_humanities_terms)
+
+
 ### Finding and gathering text
 
 Text can be approached as data and analyzed by corpus/corpora.

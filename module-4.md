@@ -91,6 +91,9 @@ Voyant provides a range of tools and options for text analysis. What information
 - Generate your visualization output and decide if you were able to answer your research question using the methodologies you chose
 - What additional research questions do you have now that you've completed your initial analysis?
 
+## Want to Explore More? 
+If you'd like to continue your text analysis using other tools, we recommend [Methodica Commons](https://methodi.ca/) as a great starting point. The website includes a range of tools and techniques for working with text, including recipes and tutorials suitable for the novice and more advanced user alike.
+
 <br>
 Share the results of your work with us via email or shared Google doc! Our contact details are on the [about](About.md) page. 
 
