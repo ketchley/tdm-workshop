@@ -5,7 +5,7 @@ nav_order: 7
 ---
 
 # Workshop Preparation 
-This page contains the datasets for the text and data mining workshop. There is contextual information about each collection of documents, including links to the original location they were derived from. Choose one dataset to work with in class. 
+This page contains the datasets for the text and data mining workshop. There is contextual information about each collection of documents, including links to the original location they were derived from. Choose one dataset to work with in class. Click on the dataset title (eg Adult British Fiction) to download the dataset.
 
 ## Choose a dataset to work with
  
@@ -23,7 +23,7 @@ Dataset of the inaugural speeches of every US president from Washington in 1789 
 
 4. [Feeding America](https://www.dropbox.com/sh/0t5skm52zs7p940/AAAO3Gq82xxQhZnAh2UZxi-Qa?dl=0)
 <br>
-The Feeding America: The Historic American Cookbook dataset contains transcribed and encoded text from 76 influential American cookbooks held by MSU Libraries Stephen O. Murray and Keelung Hong Special Collections. Features encoded within the text include but are not limited to recipes, types of recipes, cooking implements, and ingredients. The 76 texts were chosen among more than 7000 cookbooks that MSU Libraries holds as representative of periods and themes in American cookbook history spanning the late 18th to early 20th century.  [Feeding America: The Historic American Cookbook Dataset. East Lansing: Michigan State University Libraries Special Collections](https://www.lib.msu.edu/feedingamericadata/)  
+The Feeding America: The Historic American Cookbook dataset contains transcribed and encoded text from 76 influential American cookbooks held by MSU Libraries Stephen O. Murray and Keelung Hong Special Collections. Features encoded within the text include but are not limited to recipes, types of recipes, cooking implements, and ingredients. The 76 texts were chosen among more than 7000 cookbooks that MSU Libraries holds as representative of periods and themes in American cookbook history spanning the late 18th to early 20th century. Source: [Feeding America: The Historic American Cookbook Dataset. East Lansing: Michigan State University Libraries Special Collections](https://www.lib.msu.edu/feedingamericadata/)  
 
 5. [Billboard Hits](data/Dataset 5 - #1 Billboard Hits-20210122T202254Z-001.zip)
 <br>
