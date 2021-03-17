@@ -25,11 +25,12 @@ Dataset of the inaugural speeches of every US president from Washington in 1789 
 <br>
 The Feeding America: The Historic American Cookbook dataset contains transcribed and encoded text from 76 influential American cookbooks held by MSU Libraries Stephen O. Murray and Keelung Hong Special Collections. Features encoded within the text include but are not limited to recipes, types of recipes, cooking implements, and ingredients. The 76 texts were chosen among more than 7000 cookbooks that MSU Libraries holds as representative of periods and themes in American cookbook history spanning the late 18th to early 20th century. Source: [Feeding America: The Historic American Cookbook Dataset. East Lansing: Michigan State University Libraries Special Collections](https://www.lib.msu.edu/feedingamericadata/)  
 
-5. [Billboard Hits](data/Dataset 5 - #1 Billboard Hits-20210122T202254Z-001.zip)
+5. [Billboard Hits](data/Dataset5-no1-BillboardHits-20210122T202254Z-001.zip)
 <br>
 A collection of songs from popular 20th century artists, including The Beatles, Michael Jackson, Mariah Carey and Madonna.
 
 6. [19th Century Sunday School Texts](data/Dataset 6 - 19th C. Sunday School Texts-20210122T202256Z-001.zip)
+(data/Dataset 5 - #1 Billboard Hits-20210122T202254Z-001.zip)
 <br>
 The Sunday School Books in Nineteenth Century America dataset consists of 166 texts, including Sunday school books published between 1809 and 1887. The material reflects the emerging diversity of Protestant Christian denominations in the United States during that period. Additionally, texts included also mark the appearance of a theologically inflected genre of juvenile literature, which was published by a variety of sectarian presses.
 More contextual information is available [here](https://digital.lib.msu.edu/projects/ssb/?action=introessay)
